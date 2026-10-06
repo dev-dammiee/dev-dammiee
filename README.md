@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Dammie 👋
+# Hi, I'm Dammiee 👋
 
-### Full-Stack Developer | Cloud Computing Student at Coventry University
+### Full-Stack Developer • Cloud Computing Student • Software Engineer
 
-Building modern, scalable web applications with a strong focus on performance, user experience, and clean design.
+Building scalable applications with modern web technologies and cloud-first solutions.
 
 </div>
 
@@ -12,60 +12,68 @@ Building modern, scalable web applications with a strong focus on performance, u
 
 ## About Me
 
-I'm a passionate **Full-Stack Developer** and **Cloud Computing student at Coventry University**, focused on creating digital products that combine excellent functionality with thoughtful design.
+I'm a Full-Stack Developer passionate about building high-quality digital products that combine clean design, strong performance, and exceptional user experiences.
 
-I enjoy transforming ideas into high-quality applications using modern web technologies, with particular interests in:
+Currently studying **Cloud Computing at Coventry University**, while continuously applying my software engineering knowledge through personal projects and real-world development experience.
 
-- Full-stack web development
-- Cloud technologies and scalable systems
-- Modern UI/UX design
-- Artificial Intelligence integration
-- Mobile and cross-platform applications
+My interests include:
 
-My goal is to build solutions that solve real-world problems while delivering exceptional user experiences.
+- Full-Stack Development
+- Cloud Computing
+- Software Engineering
+- Artificial Intelligence
+- UI/UX Design
+- Database Systems
 
 ---
 
 ## Education
 
-🎓 **Coventry University**  
-**BSc Cloud Computing**  
-Currently developing expertise in:
+### 🎓 Coventry University
+**BSc Cloud Computing**
 
-- Cloud Infrastructure
-- Distributed Systems
-- Database Technologies
-- Software Development
-- Cybersecurity Fundamentals
-- Cloud Architecture and Deployment
+Currently studying cloud infrastructure, cybersecurity, distributed systems, software engineering, database technologies, and cloud architecture.
+
+### 🎓 Aptech Computer Education
+**Advanced Diploma in Software Engineering (ADSE)**
+
+Completed professional training in software development, programming, database management, software engineering principles, application design, and project development.
+
+---
+
+## Experience
+
+### 💼 Software Engineering Intern
+**GUR Innovation Hub**
+
+- Collaborated on software development projects within a technology-focused innovation environment.
+- Assisted in designing, developing, and improving web-based solutions.
+- Worked with modern development tools and workflows in a team setting.
+- Strengthened technical and problem-solving skills through practical industry experience.
 
 ---
 
 ## Technical Skills
 
+### Languages
+- TypeScript
+- JavaScript
+- Python
+- Java
+- SQL
+
 ### Frontend
 - Next.js
 - React
-- TypeScript
-- JavaScript
 - Tailwind CSS
 - HTML5
 - CSS3
 
-### Backend
-- Node.js
+### Backend & Databases
+- Supabase
 - Firebase
-- Supabase
-- REST APIs
-
-### Mobile Development
-- Flutter
-
-### Databases
-- SQL
 - PostgreSQL
-- Firebase Firestore
-- Supabase
+- REST APIs
 
 ### Tools & Platforms
 - Git
@@ -73,80 +81,7 @@ Currently developing expertise in:
 - Figma
 - VS Code
 
-### Programming Languages
-- TypeScript
-- JavaScript
-- Python
-- Java
-- SQL
-
----
-
-## Selected Projects
-
-### 🏠 Garki Heights
-A modern real estate platform focused on providing a premium property browsing experience.
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS
-
-### 🎙️ Verba
-An AI-powered speech-to-text notebook that leverages modern AI technologies to streamline note-taking and productivity.
-
-**Tech Stack:** Next.js, TypeScript, AI Integration
-
-### 🛡️ Safe Report
-A secure platform that enables anonymous reporting and promotes accountability through accessible digital reporting tools.
-
-**Tech Stack:** Next.js, TypeScript, Firebase
-
-### 🎓 UniSpace
-A university-focused space booking and management platform designed to improve campus resource accessibility.
-
-**Tech Stack:** Next.js, TypeScript
-
-### 💼 CaliGig
-A freelance marketplace connecting skilled professionals with clients through a streamlined and user-friendly platform.
-
-**Tech Stack:** Next.js, TypeScript, Firebase
-
-### 🛍️ Baby Shop Hub
-A Flutter-based e-commerce application built to deliver a seamless shopping experience.
-
-**Tech Stack:** Flutter, Firebase
-
----
-
-## What I'm Currently Working On
-
-- Expanding my expertise in Cloud Computing and Cloud Architecture
-- Building scalable full-stack applications
-- Exploring AI-powered product development
-- Developing solutions designed for African markets with global standards
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="httpsreadme-stats.vercel.app/api?username=dev-dammiee&show_icons=true&theme=tokyonight
-</p>
-
-<p align="center">
-  <img src="https://github-readme-el.app/api/top-langs/?username=dev-dammiee&layout=compact&theme=tokyonight
-</p>
-
----
-
-## Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/dev-dammiee
-- 📸 Instagram: https://instagram.com/dev-dammiee
-- 💻 GitHub: https://github.com/dev-dammiee
-
----
-
-<div align="center">
-
-### Building scalable solutions, continuously learning, and turning ideas into reality.
-
-</div>
+### Areas of Interest
+- Cloud Computing
+- Software Architecture
+- Artificial
