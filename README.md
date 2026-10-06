@@ -44,7 +44,7 @@ Completed professional training in software development, programming, database m
 ## Experience
 
 ### 💼 Software Engineering Intern
-**GUR Innovation Hub**
+**GURU Innovation Hub**
 
 - Collaborated on software development projects within a technology-focused innovation environment.
 - Assisted in designing, developing, and improving web-based solutions.
@@ -84,4 +84,4 @@ Completed professional training in software development, programming, database m
 ### Areas of Interest
 - Cloud Computing
 - Software Architecture
-- Artificial
+- Artificial Intelligence
